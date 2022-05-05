@@ -1,0 +1,7 @@
+customer,type,number,date,due_date,currency,total,item,description,quantity,unit_cost,discount,tax,shipping
+y5754u5,invoice,1,"May 5, 2022","May 3, 2022",INR,637.82,"Arduino UNO",,1,230,0,41.4,22.59
+y5754u5,invoice,1,"May 5, 2022","May 3, 2022",INR,637.82,"Servo Motor",,1,55,0,9.9,5.4
+y5754u5,invoice,1,"May 5, 2022","May 3, 2022",INR,637.82,"Ultrasonic Sensor",,1,50,0,9,4.91
+y5754u5,invoice,1,"May 5, 2022","May 3, 2022",INR,637.82,"Jumper Wires",,20,0.8,0,2.88,1.57
+y5754u5,invoice,1,"May 5, 2022","May 3, 2022",INR,637.82,Dustbin,,1,99,0,17.82,9.72
+y5754u5,invoice,1,"May 5, 2022","May 3, 2022",INR,637.82,Adaptor,,1,49,0,8.82,4.81
